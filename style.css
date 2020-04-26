@@ -84,10 +84,11 @@ h1 {
 	border: solid #fff 1px;
 	margin-top: 25px;
 	opacity: 0.7;
+	transition: 0.3s;
 }
 
 .btn:hover {
-	transform: scale(0.98);
+	transform: scale(0.9);
 }
 
 #about {
